@@ -163,7 +163,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "RapitAPI",
+          name: "typescript",
           color: "green-text-gradient",
         },
         {
