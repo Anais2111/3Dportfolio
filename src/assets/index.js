@@ -28,8 +28,8 @@ import tesla from "./company/tesla.png";
 import encata from "./company/encata.png"; 
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import hoobank from "./hoobank.png";
+import gym from "./gym.png";
 
 export {
   logo,
@@ -59,6 +59,7 @@ export {
   encata,
   tesla,
   carrent,
-  jobit,
-  tripguide,
+  hoobank,
+  gym,
+ 
 };

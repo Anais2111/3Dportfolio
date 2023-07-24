@@ -20,8 +20,8 @@ import {
     tesla,
     shopify,
     carrent,
-    jobit,
-    tripguide,
+    hoobank,
+    gym,
     threejs,
   } from "../assets";
   
@@ -154,7 +154,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Car Rent" ,
       description:
         "Web-based platform that allows users to search car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -167,24 +167,25 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "RapidAPI",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
+      link: "https://car-rent-kappa.vercel.app/",
       source_code_link: "https://github.com/Anais2111/car_rent",
     },
     {
-      name: "Job IT",
+      name: "HooBank",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "React JS application consisting of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, and more!",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "tailwindcss",
           color: "green-text-gradient",
         },
         {
@@ -192,20 +193,21 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: hoobank,
+      link: "https://dev.di1nyjki7gt9x.amplifyapp.com/",
+      source_code_link: "https://github.com/Anais2111/hoobank.git",
     },
     {
-      name: "Trip Guide",
+      name: "Fitness App",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The React Fitness Application is a cutting-edge fitness platform designed to revolutionize your workout experience and help you achieve your health and fitness goals in the most efficient and enjoyable way possible..",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "RapidAPI",
           color: "green-text-gradient",
         },
         {
@@ -213,8 +215,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: gym,
+      link: "https://dev.d338oai3i9vfut.amplifyapp.com/",
+      source_code_link: "https://github.com/Anais2111/fitness_app.git",
     },
   ];
   

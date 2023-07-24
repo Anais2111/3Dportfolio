@@ -9,12 +9,13 @@ import { fadeIn, textVariant} from '../utils/motion'
 import { Tilt } from 'react-tilt'
 
 
-const ProjectCard = ({ index, name, description, tags, image,
+const ProjectCard = ({ index, name, description, tags, image, link,
    source_code_link }) => {
 return (
 
   <motion.div variants={fadeIn("up", "spring", 
   index * 0.5, 0.75)}>
+     <a href={link} target="_blank" rel="noopener noreferrer">
    <Tilt
     options={{
       max: 45,
@@ -63,6 +64,7 @@ return (
       ) )}
     </div>
    </Tilt>
+   </a>
   </motion.div>
 )
 
