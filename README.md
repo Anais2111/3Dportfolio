@@ -1,4 +1,4 @@
-# 3Dportfolio
+# 3Dportfolio based on youtube course
 
 <img width="945" alt="Screenshot 2023-07-03 191000" src="https://github.com/Anais2111/3Dportfolio/assets/79805225/ac7058d0-cd6f-4b58-bcd0-056ffa12f3d9">
 
